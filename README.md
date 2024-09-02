@@ -123,9 +123,17 @@ public class Main {
 
 # Критерии оценки по всем заданиям
   – В исправленном коде применен принцип полиморфизма.
+
+  
   – В исправленном коде применен принцип наследования.
+
+  
   – В исправленном коде применен принцип инкапсуляции.
+
+  
   – В исправленном коде применена перегрузка методов.
+
+  
 
 
 ENG text 
@@ -254,7 +262,13 @@ public class Main {
 
  Evaluation criteria for all tasks
  – The corrected code uses the principle of polymorphism.
+
+ 
  – The corrected code uses the principle of inheritance.
+
+ 
  – The corrected code uses the principle of encapsulation.
+
+ 
  – Method overloading has been applied in the corrected code.
 
