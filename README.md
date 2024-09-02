@@ -7,6 +7,7 @@
 
 1-й блок кода. Пример с велосипедом
 
+
 public class Bicycle {
     public String modelName;
     public int wheelsCount;
@@ -16,6 +17,8 @@ public class Bicycle {
 }
 
 2-й блок кода. Пример с машиной
+
+
 public class Car {
     public String modelName;
     public int wheelsCount;
@@ -28,6 +31,8 @@ public class Car {
 }
 
 3-й блок кода. Пример с сервисной станцией
+
+
 public class ServiceStation {
     public void check(Car car, Bicycle bicycle, Truck truck) {
         if (car != null) {
@@ -53,6 +58,8 @@ public class ServiceStation {
 }
 
 4-й блок кода. Пример с грузовой машиной
+
+
 public class Truck {
     public String modelName;
     public int wheelsCount;
@@ -68,6 +75,8 @@ public class Truck {
 }
 
 5-й блок кода. Общий пример
+
+
 public class Main {
     public static void main(String[] args) {
         Car car = new Car();
